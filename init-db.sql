@@ -1,10 +1,10 @@
-CREATE TABLE IF NOT EXISTS tblbook1358318 (
+CREATE TABLE IF NOT EXISTS tblbookIUH1358318 (
     id serial PRIMARY KEY,
     title varchar NOT NULL,
     author varchar NOT NULL
 );
 
-INSERT INTO tblbook (title, author) VALUES
+INSERT INTO tblbookIUH1358318 (title, author) VALUES
   ('DevOps', 'IUH1358318'),
   ('Big Data', 'IUH1358318'),
   ('Cloud Deployement', 'IUH1358318'),
